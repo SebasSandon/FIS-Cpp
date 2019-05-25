@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1558717635 source:/home/elmagico/Documentos/codeblocks_workspace/FuzzyInferenceSystem/src/MembershipFunction.cpp
+	"MembershipFunction.h"
+
+1558717638 /home/elmagico/Documentos/codeblocks_workspace/FuzzyInferenceSystem/include/MembershipFunction.h
+
+1558720406 source:/home/elmagico/Documentos/codeblocks_workspace/FuzzyInferenceSystem/main.cpp
+	<iostream>
+	"LinguisticValue.h"
+	"LinguisticVariable.h"
+
+1558707680 source:/home/elmagico/Documentos/codeblocks_workspace/FuzzyInferenceSystem/src/LinguisticValue.cpp
+	"LinguisticValue.h"
+	<string>
+
+1558707646 /home/elmagico/Documentos/codeblocks_workspace/FuzzyInferenceSystem/include/LinguisticValue.h
+	<string>
+	"MembershipFunction.h"
+
+1558720269 source:/home/elmagico/Documentos/codeblocks_workspace/FuzzyInferenceSystem/src/LinguisticVariable.cpp
+	"LinguisticVariable.h"
+	<vector>
+
+1558720219 /home/elmagico/Documentos/codeblocks_workspace/FuzzyInferenceSystem/include/LinguisticVariable.h
+	<vector>
+	"LinguisticValue.h"
+

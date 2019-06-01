@@ -1,0 +1,15 @@
+OR=1
+AND=2
+IF=3
+IS=4
+THEN=5
+SEMI=6
+ID=7
+WS=8
+COMMENT=9
+'o'=1
+'y'=2
+'si'=3
+'es'=4
+'entonces'=5
+';'=6

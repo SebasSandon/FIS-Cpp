@@ -37,6 +37,9 @@
 		<Unit filename="include/LinguisticValue.h" />
 		<Unit filename="include/LinguisticVariable.h" />
 		<Unit filename="include/MembershipFunction.h" />
+		<Unit filename="lexico.l">
+			<Option compile="1" />
+		</Unit>
 		<Unit filename="main.cpp" />
 		<Unit filename="src/LinguisticValue.cpp" />
 		<Unit filename="src/LinguisticVariable.cpp" />
